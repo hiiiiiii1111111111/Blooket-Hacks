@@ -1,5 +1,5 @@
 function _0x5178() {
-    var _0xa6c807 = [
+    var _0xa6c807 = [ javascript
         'ont-size:1',
         'd\x20to\x20repos',
         '8px',
